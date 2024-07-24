@@ -1,0 +1,27 @@
+.restock-alerts-inline-icon {
+    display: none;
+}
+
+.restock-alerts-form-title {
+    display: none;    
+}
+
+.restock-alerts-modal-box {
+    border-radius: 0px;
+}
+
+.restock-alerts-variant-select {
+    border: 1px solid black;
+    border-radius: 0px;
+    padding-left: 1.4rem !important;
+}
+
+.restock-alerts-email-label-span{
+    padding: 0px !important;
+    font-weight: 700 !important;
+    color: var(--color);
+    font-size: var(--fontSize) !important;
+    line-height: var(--fontLine) !important;
+    font-style: var(--fontStyle) !important;
+    font-family: var(--fontFamily) !important;
+}
